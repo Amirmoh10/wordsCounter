@@ -84,6 +84,7 @@ h2 {
 .input-container {
   height: 200px;
   background-color: white;
+  display: flex;
 }
 .input {
   width: 100%;
